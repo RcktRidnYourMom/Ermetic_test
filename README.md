@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This small prototype is the test for a future web-app we want to create.
 
-Things you may want to cover:
+Ermetic will be a page for upcoming and undergrouds musicians, who joined or decided to collaborate with the Ermetic-Label based in Trieste.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Gianluca Semez is the person to contact for any questions.
