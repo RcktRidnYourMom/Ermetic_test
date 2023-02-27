@@ -14,7 +14,7 @@ class MessagesController < ApplicationController
   def create
     @message = Message.new(message_params)
     if @message.save
-      flash[:notice] = "Article was created successfully."
+      flash[:notice] = "Message was saved and sent successfully."
       redirect_to home_path
     else
       render 'new'

@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background-color: #fafafa;
+  background-color: rgb(2, 241, 241);
   height: 100%;
 }
 
@@ -11,7 +11,10 @@ form{
   margin-left: 30px;
 }
 
-
+.navbar-brand{
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .home-sections {
   height: 100%;
@@ -114,4 +117,10 @@ form{
 .a-decoration-none {
   text-decoration: none;
   color: black
+}
+
+.p-5{
+
+  color: #000000;
+
 }
